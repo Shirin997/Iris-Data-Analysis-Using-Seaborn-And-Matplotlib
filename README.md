@@ -76,7 +76,7 @@ The dataset can be found [here](https://www.kaggle.com/datasets/vikrishnan/bosto
 The analysis of the Iris dataset using Matplotlib provided valuable insights into the characteristics of different species of Iris flowers. Through visualizations and statistical summaries, we observed distinct patterns and relationships among the features. Matplotlib's versatile plotting functions allowed us to create informative visualizations, aiding in the exploration and interpretation of the dataset. Overall, this assignment demonstrated the power and flexibility of Matplotlib for data visualization tasks.
 ## Project Link 
 
-You can see my project [here.](https://github.com/Ajaj583/Iris-Data-Analysis-using-Seaborn-and-Matplotlib/blob/main/Iris_Dataset_Analysis%20Using%20seabon%20and%20matplotlib.ipynb)
+[project link here](https://github.com/Shirin997/Iris-Data-Analysis-Using-Seaborn-And-Matplotlib/blob/main/Iris_Dataset_Analysis%20Using%20seabon%20and%20matplotlib.ipynb)
 ## Authors
 
 - [@Shirin](https://github.com/Shirin997)
